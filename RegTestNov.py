@@ -1,4 +1,4 @@
-#!/usr/bin/env python3 nanthu
+#!/usr/bin/env python3 code
 import sys
 import subprocess
 
